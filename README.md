@@ -1,2 +1,3 @@
 # DMV
-Database management and visualisation 
+This is my first repository.
+I am looking forward to learning more.
